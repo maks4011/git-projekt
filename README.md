@@ -27,8 +27,8 @@ python main.py
 ## Wymagania
 
 - Python 3.x
-- Inne zależności (wymień, jeśli są)
-
+- Inne
+  
 ## Funkcjonalności
 
 - [x] Nauka podstawowych komend git
@@ -54,11 +54,7 @@ Więcej informacji w pliku [LICENSE](LICENSE).
 ## Autorzy
 
 - Maksymilian (maks4011)
-- Inni współautorzy
 
-## Kontakt
-
-Jeśli masz pytania, napisz do mnie na GitHub lub na email: example@example.com
 
 ## Zasady współpracy
 
