@@ -1,4 +1,3 @@
-﻿# git-projekt
 # git-projekt
 
 ## Opis projektu
